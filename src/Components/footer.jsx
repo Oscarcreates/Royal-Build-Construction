@@ -16,7 +16,7 @@ export default function Footer({ scrollTo }) {
                 <span className="text-white font-black text-lg">C</span>
               </div>
               <div>
-                <div className="text-sky-400 font-black text-sm leading-tight tracking-wide uppercase">Build Canada</div>
+                <div className="text-sky-400 font-black text-sm leading-tight tracking-wide uppercase">Royal Build</div>
                 <div className="text-gray-500 text-[10px] tracking-widest uppercase leading-none">Construction</div>
               </div>
             </div>
