@@ -4,6 +4,7 @@
 import { STATS } from "../data";
 import { FadeIn } from "../utils";
 
+
 const BADGES = ["CSA Certified", "ISO 9001", "Green Building", "Safety First"];
 
 export default function AboutSection() {
@@ -29,8 +30,8 @@ export default function AboutSection() {
               <span className="text-sky-500">Driven by Excellence.</span>
             </h2>
             <p className="text-gray-600 leading-relaxed mb-5 text-lg">
-             Build Canada Construction has been a cornerstone of Canadian infrastructure
-              for over two decades. With offices in Toronto, Montreal, Ottawa, and Huntsville,
+             Royal Build Construction has been a cornerstone of Canadian infrastructure
+              for over two decades. With offices in Toronto, Montreal, Ottawa, and Barrie,
               we bring national reach with local expertise.
             </p>
             <p className="text-gray-600 leading-relaxed mb-8">

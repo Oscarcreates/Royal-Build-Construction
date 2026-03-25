@@ -163,7 +163,7 @@ export const ADDRESSES = [
   { city: "Toronto",    address: "700 Bay St., Suite 502",          full: "Toronto, ON M5G 1Z6"   },
   { city: "Montreal",   address: "500 Place d'Armes, Suite 1703",   full: "Montreal, QC H2Y 2W2"  },
   { city: "Ottawa",     address: "141 Laurier Ave W, Suite 405",    full: "Ottawa, ON K1P 5J2"    },
-  { city: "Huntsville", address: "14 N Fetterly St",                full: "Huntsville, ON P1H 1K8"},
+  { city: "Barrie", address: "54 Cedar Pointe Dr Suite 1204",                full: "Barrie, ON L4N 5R7"},
 ];
 
 // ── STATS ──

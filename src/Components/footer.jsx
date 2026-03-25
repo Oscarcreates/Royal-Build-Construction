@@ -59,7 +59,7 @@ export default function Footer({ scrollTo }) {
             <h4 className="text-white font-black mb-4 text-sm uppercase tracking-widest">Contact</h4>
             <div className="space-y-3 text-sm text-gray-400">
               <div>+1 (705) 528-2359</div>
-              <div>✉️ info@buildcanadaconstruction.com</div>
+              <div>✉️ info@royalbuildconstruction</div>
               <div>🕐 Mon–Fri, 8am – 6pm EST</div>
             </div>
             <div className="flex gap-3 mt-6">
@@ -82,7 +82,7 @@ export default function Footer({ scrollTo }) {
 
         {/* Bottom bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-500">
-          <div>© {new Date().getFullYear()} Build Canada Construction. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} Royal Build Construction. All rights reserved.</div>
           <div className="flex gap-6">
             {["Privacy Policy", "Terms of Service", "Sitemap"].map((l) => (
               <span key={l} className="hover:text-sky-400 cursor-pointer transition-colors">{l}</span>
