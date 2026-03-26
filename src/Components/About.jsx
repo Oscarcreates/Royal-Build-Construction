@@ -30,7 +30,7 @@ export default function AboutSection() {
               <span className="text-sky-500">Driven by Excellence.</span>
             </h2>
             <p className="text-gray-600 leading-relaxed mb-5 text-lg">
-             Royal Build Construction has been a cornerstone of Canadian infrastructure
+             Chora Bridge Construction has been a cornerstone of Canadian infrastructure
               for over two decades. With offices in Toronto, Montreal, Ottawa, and Barrie,
               we bring national reach with local expertise.
             </p>
