@@ -82,7 +82,7 @@ export const SERVICES = [
     ],
   },
   {
-    slug: "road-construction",
+    slug: "road-constructions",
     title: "Road Construction",
     desc: "Durable highways, urban roads, and transportation corridors that connect communities and drive progress.",
     image: "/assets/road-construction.jpg",
